@@ -3,6 +3,7 @@
 ## 1.
 <img src="https://github.com/Coy0000/Basic-network-building/blob/main/1.PNG" height="80%" width="80%" alt="Start"/>
 Using 2PCs for each switch, 2 switches, and 1 router.
+<br>
 
 <img src="https://github.com/Coy0000/Basic-network-building/blob/main/2.PNG" height="80%" width="80%" alt="Start"/>
 
