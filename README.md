@@ -17,6 +17,8 @@ Connecting all the switches with the router, using *gigabit ethernet.* 📡
 ## 3.Command Line Interface (CLI) part📋 
 <img src="https://github.com/Coy0000/Basic-network-building/blob/main/5.PNG" height="80%" width="80%" alt="Start"/>
 Opening the router CLI. 📋
+
+
 Typing in the the following commands to configure the router and switches
 ```bash
 enable
@@ -36,17 +38,27 @@ no shutdown
 ```bash
 exit
 ```
+
+
 <img src="https://github.com/Coy0000/Basic-network-building/blob/main/6.PNG" height="80%" width="80%" alt="Start"/>
 
 <img src="https://github.com/Coy0000/Basic-network-building/blob/main/7.PNG" height="80%" width="80%" alt="Start"/>
 Arrows have turned green✔️. (between first switch and router)
+
+
 And now doing the same for the other interface g0/1, except using a different ip address, 
 ```bash
 192.168.2.1
  ```
+
+
 ## 4. Ip Addresses
 Assigning Ip addresses according to the interface's set default gateway. 📶
+
+
 🌐*Default gateway: used to send traffic outside the local network (like to another network or the internet). Basically the ip we assigned to the interfaces earlier*
+
+
 
 <img src="https://github.com/Coy0000/Basic-network-building/blob/main/8.PNG" height="80%" width="80%" alt="Start"/>
 
