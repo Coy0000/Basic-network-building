@@ -14,6 +14,8 @@ Connecting all the PCs with switches using 📡 *fast ethernet*,  with *copper s
 <img src="https://github.com/Coy0000/Basic-network-building/blob/main/3.PNG" height="80%" width="80%" alt="Start"/>
 Connecting all the switches with the router, using *gigabit ethernet.* 📡
 <img src="https://github.com/Coy0000/Basic-network-building/blob/main/4.PNG" height="80%" width="80%" alt="Start"/>
+
+
 ## 3.Command Line Interface (CLI) part📋 
 <img src="https://github.com/Coy0000/Basic-network-building/blob/main/5.PNG" height="80%" width="80%" alt="Start"/>
 Opening the router CLI. 📋
